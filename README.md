@@ -12,14 +12,14 @@ This HR Analysis Dashboard provides a comprehensive view of employee data across
 
 
 ##  KPIs and Visuals Included
-- Total Employees**
-- Average Salary**
-- Total Departments**
-- Salary by Experience Level**
-- Salary Trends by Age**
-- Attendance by Gender and Year**
-- Employee Count by Department & Gender**
-- Employee Detail Table** (via drill-through)
+- Total Employees
+- Average Salary
+- Total Departments
+- Salary by Experience Level
+- Salary Trends by Age
+- Attendance by Gender and Year
+- Employee Count by Department & Gender
+- Employee Detail Table (via drill-through)
 
 
 ### Dashboard View
